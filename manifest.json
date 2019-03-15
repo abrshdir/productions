@@ -1,4 +1,28 @@
 {
+  "static.ignore": [
+    "^\/assets\/ignore.*$"
+  ],
+  "routing": {
+    "index": "/index.html",
+    "routes": {
+      "/": {
+        "match": "exact"
+      },
+      "/some-routes-group-prefix": {
+        "match": "prefix"
+      },
+      "/some-routes-group-prefix-no-files": {
+        "match": "prefix",
+        "onlyWithoutExtension": true
+      },
+      "/some/specific-route": {
+        "match": "exact"
+      },
+      "^/regex/.*/route$": {
+        "match": "regex"
+      }
+    }
+  } ,
   "name": "abrsh",
   "short_name": "abrsh",
   "theme_color": "#1976d2",

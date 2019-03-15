@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1552652867245,
+  "timestamp": 1552656062911,
   "index": "https://abrshdir.github.io/productions/index.html",
   "assetGroups": [
     {
@@ -8,10 +8,20 @@
       "installMode": "prefetch",
       "updateMode": "prefetch",
       "urls": [
+        "https://abrshdir.github.io/productions/3rdpartylicenses.txt",
+        "https://abrshdir.github.io/productions/assets/icons/icon-128x128.png",
+        "https://abrshdir.github.io/productions/assets/icons/icon-144x144.png",
+        "https://abrshdir.github.io/productions/assets/icons/icon-152x152.png",
+        "https://abrshdir.github.io/productions/assets/icons/icon-192x192.png",
+        "https://abrshdir.github.io/productions/assets/icons/icon-384x384.png",
+        "https://abrshdir.github.io/productions/assets/icons/icon-512x512.png",
+        "https://abrshdir.github.io/productions/assets/icons/icon-72x72.png",
+        "https://abrshdir.github.io/productions/assets/icons/icon-96x96.png",
         "https://abrshdir.github.io/productions/es2015-polyfills.c5dd28b362270c767b34.js",
         "https://abrshdir.github.io/productions/favicon.ico",
         "https://abrshdir.github.io/productions/index.html",
         "https://abrshdir.github.io/productions/main.30c74147fb19b79ea4bd.js",
+        "https://abrshdir.github.io/productions/manifest.json",
         "https://abrshdir.github.io/productions/polyfills.8bbb231b43165d65d357.js",
         "https://abrshdir.github.io/productions/runtime.26209474bfa8dc87a77c.js",
         "https://abrshdir.github.io/productions/styles.3ff695c00d717f2d2a11.css"
@@ -22,21 +32,13 @@
       "name": "assets",
       "installMode": "lazy",
       "updateMode": "prefetch",
-      "urls": [
-        "https://abrshdir.github.io/productions/assets/icons/icon-128x128.png",
-        "https://abrshdir.github.io/productions/assets/icons/icon-144x144.png",
-        "https://abrshdir.github.io/productions/assets/icons/icon-152x152.png",
-        "https://abrshdir.github.io/productions/assets/icons/icon-192x192.png",
-        "https://abrshdir.github.io/productions/assets/icons/icon-384x384.png",
-        "https://abrshdir.github.io/productions/assets/icons/icon-512x512.png",
-        "https://abrshdir.github.io/productions/assets/icons/icon-72x72.png",
-        "https://abrshdir.github.io/productions/assets/icons/icon-96x96.png"
-      ],
+      "urls": [],
       "patterns": []
     }
   ],
   "dataGroups": [],
   "hashTable": {
+    "https://abrshdir.github.io/productions/3rdpartylicenses.txt": "586bc21e2daf308069a3b32df213a57d53ddd7c1",
     "https://abrshdir.github.io/productions/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
     "https://abrshdir.github.io/productions/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
     "https://abrshdir.github.io/productions/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
@@ -49,6 +51,7 @@
     "https://abrshdir.github.io/productions/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
     "https://abrshdir.github.io/productions/index.html": "68a1f86da5e64efd4c12f08972e40c04dd33b875",
     "https://abrshdir.github.io/productions/main.30c74147fb19b79ea4bd.js": "71d5565fa0b5fe769f7bfd80ebd951f2d97ff1af",
+    "https://abrshdir.github.io/productions/manifest.json": "abfac5f71733f77dcd048d6a74b3d7d6cf2550fb",
     "https://abrshdir.github.io/productions/polyfills.8bbb231b43165d65d357.js": "ffa449995bf2eba2ccd0a002417214f7eb75e7b5",
     "https://abrshdir.github.io/productions/runtime.26209474bfa8dc87a77c.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
     "https://abrshdir.github.io/productions/styles.3ff695c00d717f2d2a11.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
