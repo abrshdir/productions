@@ -1,35 +1,11 @@
 {
-  "static.ignore": [
-    "^\/assets\/ignore.*$"
-  ],
-  "routing": {
-    "index": "/index.html",
-    "routes": {
-      "/": {
-        "match": "exact"
-      },
-      "/some-routes-group-prefix": {
-        "match": "prefix"
-      },
-      "/some-routes-group-prefix-no-files": {
-        "match": "prefix",
-        "onlyWithoutExtension": true
-      },
-      "/some/specific-route": {
-        "match": "exact"
-      },
-      "^/regex/.*/route$": {
-        "match": "regex"
-      }
-    }
-  } ,
   "name": "abrsh",
   "short_name": "abrsh",
   "theme_color": "#1976d2",
   "background_color": "#fafafa",
   "display": "standalone",
   "scope": "/",
-  "start_url": "/productions/index.html",
+  "start_url": "/",
   "icons": [
     {
       "src": "assets/icons/icon-72x72.png",

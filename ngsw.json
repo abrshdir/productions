@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1552656062911,
+  "timestamp": 1552657004527,
   "index": "https://abrshdir.github.io/productions/index.html",
   "assetGroups": [
     {
@@ -51,7 +51,7 @@
     "https://abrshdir.github.io/productions/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
     "https://abrshdir.github.io/productions/index.html": "68a1f86da5e64efd4c12f08972e40c04dd33b875",
     "https://abrshdir.github.io/productions/main.30c74147fb19b79ea4bd.js": "71d5565fa0b5fe769f7bfd80ebd951f2d97ff1af",
-    "https://abrshdir.github.io/productions/manifest.json": "abfac5f71733f77dcd048d6a74b3d7d6cf2550fb",
+    "https://abrshdir.github.io/productions/manifest.json": "1cd5db2644f52dbdd6d9ef98bcac0052072e2db5",
     "https://abrshdir.github.io/productions/polyfills.8bbb231b43165d65d357.js": "ffa449995bf2eba2ccd0a002417214f7eb75e7b5",
     "https://abrshdir.github.io/productions/runtime.26209474bfa8dc87a77c.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
     "https://abrshdir.github.io/productions/styles.3ff695c00d717f2d2a11.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
